@@ -1,1 +1,1 @@
-Results from coherence across all subbands (8-12Hz)
+Results coherence across all subbands (8-12Hz)
